@@ -1,0 +1,15 @@
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\bin\Debug\net7.0\ToDoList.Service.deps.json
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\bin\Debug\net7.0\ToDoList.Service.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\bin\Debug\net7.0\ToDoList.Service.pdb
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\bin\Debug\net7.0\ToDoList.Model.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\bin\Debug\net7.0\ToDoList.Model.pdb
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.csproj.AssemblyReference.cache
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.AssemblyInfoInputs.cache
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.AssemblyInfo.cs
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.csproj.CoreCompileInputs.cache
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.csproj.CopyComplete
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\obj\Debug\net7.0\refint\ToDoList.Service.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.pdb
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Service\obj\Debug\net7.0\ref\ToDoList.Service.dll

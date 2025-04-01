@@ -1,0 +1,11 @@
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Service\bin\Debug\net7.0\To-Do-List.Service.deps.json
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Service\bin\Debug\net7.0\To-Do-List.Service.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Service\bin\Debug\net7.0\To-Do-List.Service.pdb
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Service\obj\Debug\net7.0\To-Do-List.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Service\obj\Debug\net7.0\To-Do-List.Service.AssemblyInfoInputs.cache
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Service\obj\Debug\net7.0\To-Do-List.Service.AssemblyInfo.cs
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Service\obj\Debug\net7.0\To-Do-List.Service.csproj.CoreCompileInputs.cache
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Service\obj\Debug\net7.0\To-Do-List.Service.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Service\obj\Debug\net7.0\refint\To-Do-List.Service.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Service\obj\Debug\net7.0\To-Do-List.Service.pdb
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Service\obj\Debug\net7.0\ref\To-Do-List.Service.dll

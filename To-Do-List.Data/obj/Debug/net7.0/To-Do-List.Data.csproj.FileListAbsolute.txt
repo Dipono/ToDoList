@@ -1,0 +1,14 @@
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Data\bin\Debug\net7.0\To-Do-List.Data.deps.json
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Data\bin\Debug\net7.0\To-Do-List.Data.runtimeconfig.json
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Data\bin\Debug\net7.0\To-Do-List.Data.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Data\bin\Debug\net7.0\To-Do-List.Data.pdb
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Data\obj\Debug\net7.0\To-Do-List.Data.csproj.AssemblyReference.cache
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Data\obj\Debug\net7.0\To-Do-List.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Data\obj\Debug\net7.0\To-Do-List.Data.AssemblyInfoInputs.cache
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Data\obj\Debug\net7.0\To-Do-List.Data.AssemblyInfo.cs
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Data\obj\Debug\net7.0\To-Do-List.Data.csproj.CoreCompileInputs.cache
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Data\obj\Debug\net7.0\To-Do-List.Data.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Data\obj\Debug\net7.0\refint\To-Do-List.Data.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Data\obj\Debug\net7.0\To-Do-List.Data.pdb
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Data\obj\Debug\net7.0\To-Do-List.Data.genruntimeconfig.cache
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List.Data\obj\Debug\net7.0\ref\To-Do-List.Data.dll
