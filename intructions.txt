@@ -1,0 +1,33 @@
+Coding Challenge: Build a To-Do List Application
+Objective: Create a small application that demonstrates solid object-oriented design, familiarity with C# (or Java if preferred), and problem-solving skills.
+Requirements:
+•
+Functionality:
+o
+Add new tasks (with details like title, description, due date, and priority).
+o
+Update or remove tasks.
+o
+Mark tasks as completed.
+o
+List tasks with options to filter (e.g., pending vs. completed).
+•
+Design:
+o
+Use proper OOP principles and design patterns where applicable.
+o
+Choose suitable data structures to manage tasks (e.g., lists, queues, etc.).
+o
+Write clean, modular, and testable code.
+•
+Testing:
+o
+Include unit tests to verify the functionality of the main classes and methods.
+•
+Bonus (Optional):
+o
+Extend the application into a RESTful Web API using ASP.NET Core.
+o
+Simulate cloud deployment by explaining how you’d host the API on a platform such as Microsoft Azure.
+
+build the application using .net core web api, follow Solid and OOP principle, perform use cases and make use of EF.

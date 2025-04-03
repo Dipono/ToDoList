@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
+using ToDoList.Model;
 using ToDoList.Model.DTOs;
 using ToDoList.Service;
 
@@ -33,11 +34,26 @@ namespace To_Do_List_Application.Controllers
         }
 
         [HttpGet]
-        public string name()
+        public async Task<IActionResult> GetAllTasks()
+        {
+            var results = await _toDoService.GetAllAllItems();
+
+            return Ok(results);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> MarkasCompleted(int id)
         {
             var response = new ResponseWrapper();
+            await _toDoService.MarkCompleteItem(id);
+            return NoContent();
+        }
 
-            return "Joel";
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateTask(int id, [FromBody] ItemDto item)
+        {
+            await _toDoService.UpdateItem(item);
+            return NoContent();
         }
     }
 }

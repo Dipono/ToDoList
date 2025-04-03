@@ -7,9 +7,9 @@ namespace ToDoList.Service
     {
         Task<Item> AddItem(ItemDto item);
         Task<Item> UpdateItem(ItemDto item);
-        string RemoveItem(int itemId);
-        Item MarkCompleteItem(int itemId, bool mark);
-        IEnumerable<Item> GetAllAllItems();
+        Task<string> RemoveItem(int itemId);
+        Task<Item> MarkCompleteItem(int itemId);
+        Task<IEnumerable<Item>> GetAllAllItems();
 
     }
 }

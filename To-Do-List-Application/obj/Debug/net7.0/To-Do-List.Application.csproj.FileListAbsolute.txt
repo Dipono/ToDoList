@@ -3,7 +3,6 @@ C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List-Application\obj\D
 C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List-Application\obj\Debug\net7.0\To-Do-List.Application.AssemblyInfoInputs.cache
 C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List-Application\obj\Debug\net7.0\To-Do-List.Application.AssemblyInfo.cs
 C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List-Application\obj\Debug\net7.0\To-Do-List.Application.csproj.CoreCompileInputs.cache
-C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List-Application\obj\Debug\net7.0\To-Do-List.Application.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List-Application\obj\Debug\net7.0\To-Do-List.Application.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List-Application\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List-Application\bin\Debug\net7.0\appsettings.json
