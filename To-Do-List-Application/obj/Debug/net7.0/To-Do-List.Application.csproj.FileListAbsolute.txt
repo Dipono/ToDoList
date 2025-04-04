@@ -77,3 +77,4 @@ C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List-Application\bin\D
 C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List-Application\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List-Application\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List-Application\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\To-Do-List-Application\obj\Debug\net7.0\To-Do-List.Application.MvcApplicationPartsAssemblyInfo.cs

@@ -12,3 +12,17 @@ C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Model\obj\Debug\net
 C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Model\obj\Debug\net7.0\ToDoList.Model.pdb
 C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Model\obj\Debug\net7.0\ToDoList.Model.genruntimeconfig.cache
 C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList.Model\obj\Debug\net7.0\ref\ToDoList.Model.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList\ToDoList.Model\bin\Debug\net7.0\ToDoList.Model.deps.json
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList\ToDoList.Model\bin\Debug\net7.0\ToDoList.Model.runtimeconfig.json
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList\ToDoList.Model\bin\Debug\net7.0\ToDoList.Model.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList\ToDoList.Model\bin\Debug\net7.0\ToDoList.Model.pdb
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList\ToDoList.Model\obj\Debug\net7.0\ToDoList.Model.csproj.AssemblyReference.cache
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList\ToDoList.Model\obj\Debug\net7.0\ToDoList.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList\ToDoList.Model\obj\Debug\net7.0\ToDoList.Model.AssemblyInfoInputs.cache
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList\ToDoList.Model\obj\Debug\net7.0\ToDoList.Model.AssemblyInfo.cs
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList\ToDoList.Model\obj\Debug\net7.0\ToDoList.Model.csproj.CoreCompileInputs.cache
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList\ToDoList.Model\obj\Debug\net7.0\ToDoList.Model.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList\ToDoList.Model\obj\Debug\net7.0\refint\ToDoList.Model.dll
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList\ToDoList.Model\obj\Debug\net7.0\ToDoList.Model.pdb
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList\ToDoList.Model\obj\Debug\net7.0\ToDoList.Model.genruntimeconfig.cache
+C:\Users\LEBUTE\source\repos\To-Do-List-Application\ToDoList\ToDoList.Model\obj\Debug\net7.0\ref\ToDoList.Model.dll

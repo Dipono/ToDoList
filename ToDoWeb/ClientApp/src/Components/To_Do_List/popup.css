@@ -1,0 +1,32 @@
+.main{
+    text-align: center;
+    
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 5px 100px;
+}
+
+label{
+    font-size: 1.3em;
+    font-weight:500;
+}
+
+input{
+    height: 35px;
+}
+.form-control{
+    font-size: 1.1em;
+    font-weight:550;
+}
+
+.btn{
+    margin-top:10px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: rgba(124, 38, 38, 0.89);
+    font-size: 1.3em;
+}

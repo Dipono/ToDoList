@@ -36,24 +36,73 @@ namespace To_Do_List_Application.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllTasks()
         {
-            var results = await _toDoService.GetAllAllItems();
+            var results = await _toDoService.GetAllItems();
 
             return Ok(results);
         }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAllTasksByFiltering([FromQuery] string status)
+        {
+            var response = new ResponseWrapper();
+            if (status?.ToLower() != "completed" && status?.ToLower() != "pending")
+            {
+                response.Message = "Status should only be 'completed' or 'pending'";
+            }
+            else
+            {
+                var results = await _toDoService.GetFilterAllItems(status);
+                response.Message = "Information list";
+                response.Success = true;
+                response.Results = results; 
+            }
+            
+            return Ok(response);
+        }
+
 
         [HttpPut("{id}")]
         public async Task<IActionResult> MarkasCompleted(int id)
         {
             var response = new ResponseWrapper();
-            await _toDoService.MarkCompleteItem(id);
-            return NoContent();
+            response.Message = "Unable to update item";
+            var results = await _toDoService.MarkCompleteItem(id);
+            if (results != null)
+            {
+                response.Success = true;
+                response.Message = "Item marked completed";
+                response.Results = results;
+            }
+            return Ok(response);
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateTask(int id, [FromBody] ItemDto item)
+        public async Task<IActionResult> UpdateTask(int id, [FromBody] Item item)
         {
-            await _toDoService.UpdateItem(item);
-            return NoContent();
+            var response = new ResponseWrapper();
+            response.Message = "Unable to update item";
+            if(id != item.Id) {
+                response.Message = "Item not exist";                              
+            }
+            else
+            {
+                var results = await _toDoService.UpdateItem(item);
+                if (results != null)
+                {
+                    response.Success = true;
+                    response.Message = "Item updated";
+                    response.Results = results;
+                }
+            }
+            
+            return Ok(response);
+        }
+
+        [HttpDelete("{id}")]
+        public async Task <string> RemoveItem(int id)
+        {
+            string message = await _toDoService.RemoveItem(id);
+            return message;
         }
     }
 }

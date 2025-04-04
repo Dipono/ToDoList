@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DOLwIiwPBNMzsvXru5Ntd6ko1dHu+0ROLFRm07+BCvQh68SrGc/xMrYT1ydSVKdWHMxgriWKheR/SnGWTXs6+Q==",
+  "dgSpecHash": "ci4kjG2Sa2us9CTumqgsffsmI4H1uD0ZHDtQDXgXlGBFU+pfviMMIIMGVR6pYJ7sTth9/i2TLxV7Gsq5LA6v4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Service\\ToDoList.Service.csproj",
+  "projectFilePath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LEBUTE\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\LEBUTE\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\To-Do-List-Application\\To-Do-List.Application.csproj": {}
+    "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\To-Do-List-Application\\To-Do-List.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\To-Do-List-Application\\To-Do-List.Application.csproj": {
+    "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\To-Do-List-Application\\To-Do-List.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\To-Do-List-Application\\To-Do-List.Application.csproj",
+        "projectUniqueName": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\To-Do-List-Application\\To-Do-List.Application.csproj",
         "projectName": "To-Do-List.Application",
-        "projectPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\To-Do-List-Application\\To-Do-List.Application.csproj",
+        "projectPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\To-Do-List-Application\\To-Do-List.Application.csproj",
         "packagesPath": "C:\\Users\\LEBUTE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\To-Do-List-Application\\obj\\",
+        "outputPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\To-Do-List-Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LEBUTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Model\\ToDoList.Model.csproj": {
-                "projectPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Model\\ToDoList.Model.csproj"
+              "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Model\\ToDoList.Model.csproj": {
+                "projectPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Model\\ToDoList.Model.csproj"
               },
-              "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Service\\ToDoList.Service.csproj": {
-                "projectPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Service\\ToDoList.Service.csproj"
+              "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj": {
+                "projectPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Model\\ToDoList.Model.csproj": {
+    "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Model\\ToDoList.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Model\\ToDoList.Model.csproj",
+        "projectUniqueName": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Model\\ToDoList.Model.csproj",
         "projectName": "ToDoList.Model",
-        "projectPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Model\\ToDoList.Model.csproj",
+        "projectPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Model\\ToDoList.Model.csproj",
         "packagesPath": "C:\\Users\\LEBUTE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Model\\obj\\",
+        "outputPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LEBUTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,14 +166,14 @@
         }
       }
     },
-    "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Service\\ToDoList.Service.csproj": {
+    "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Service\\ToDoList.Service.csproj",
+        "projectUniqueName": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj",
         "projectName": "ToDoList.Service",
-        "projectPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Service\\ToDoList.Service.csproj",
+        "projectPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj",
         "packagesPath": "C:\\Users\\LEBUTE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Service\\obj\\",
+        "outputPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LEBUTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -190,8 +190,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Model\\ToDoList.Model.csproj": {
-                "projectPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Model\\ToDoList.Model.csproj"
+              "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Model\\ToDoList.Model.csproj": {
+                "projectPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Model\\ToDoList.Model.csproj"
               }
             }
           }

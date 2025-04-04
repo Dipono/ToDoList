@@ -34,45 +34,47 @@ namespace ToDoList.Service
         }
 
         // Get all Items
-        public async Task<IEnumerable<Item>> GetAllAllItems()
+        public async Task<IEnumerable<Item>> GetAllItems()
         {
             return await _dbContext.Items.ToListAsync();
         }
+
+        public async Task<IEnumerable<Item>> GetFilterAllItems(string status)
+        {
+            bool completed = status?.Equals("completed", StringComparison.OrdinalIgnoreCase) ?? false;
+
+            // Filter items based on status (true for completed, false for others)
+            return await _dbContext.Items
+                                   .Where(item => item.Status == completed)
+                                   .ToListAsync();
+        }
+
 
         // update the item
         public async Task<Item> MarkCompleteItem(int itemId)
         {
             var results = await GetTaskByIdAsync(itemId);
-
-            results.Status = true;
-            var resultsDto = new ItemDto
+            if(results != null)
             {
-                DueDate = (DateTime)results.DueDate,
-                Description = results.Description,
-                Title = results.Title,
-                Priority = results.Priority,
-                Status = results.Status
-            };
-            return await UpdateItem(resultsDto);
+                results.Status = true;            
+                await UpdateItem(results);
+            }
+            return results;
         }
 
         public async Task<string> RemoveItem(int itemId)
         {
-            string message = "";
+            string message = "Item not exist";
             var results = await GetTaskByIdAsync(itemId);
-            _dbContext.Items.Remove(results);
+            if(results != null) { 
+                _dbContext.Items.Remove(results);
+                message = "Item removed successfully";
+            }
             return message;
         }
 
-        public async Task<Item> UpdateItem(ItemDto itemDto)
+        public async Task<Item> UpdateItem(Item item)
         {
-            var item = new Item
-            {
-                Description = itemDto.Description,
-                Title = itemDto.Title,
-                Priority = itemDto.Priority,
-                DueDate = itemDto.DueDate,
-            };
             _dbContext.Items.Update(item);
              await _dbContext.SaveChangesAsync();
             return item;

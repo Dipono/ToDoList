@@ -1,0 +1,184 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('../../assets/pexels-fabian-wiktor-994605.jpg');
+  /* Full height */
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.content{
+    width: 80%;
+    height: 90vh;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+}
+
+.left{
+    width: 30%;
+    background-color: #D9D9D9;
+    min-height: 90vh;
+}
+
+.right{
+    width: 70%;
+    min-height: 90vh;
+    background-color: rgba(26, 26, 24, 0.3);
+}
+
+.nameHeader{
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.nameHeader label{
+    font-size: 1.3em;
+    font-weight: 500;
+    display: flex;
+}
+
+.nameHeader span{
+    background-color: #D99FA9;
+    border-radius: 100%;
+    font-size: 1.3em;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.nameHeader label p {
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+
+.nameHeader .formGroup{
+    margin-top: 50px;
+    display: flex;
+}
+
+.controlForm{
+    width: 222px;
+    text-indent: 10px;
+    height: 26px;
+    border-radius: 6px;
+}
+
+.icon{
+	width: 25px;
+	height: 25px;
+    margin-left: 10px;
+}
+
+.leftList{
+    margin-top: 50px;
+}
+
+.myList{
+    display: flex;
+    margin-top: 10px;
+}
+
+.listIcon{
+    width: 25px;
+	height: 25px;
+    margin-top: 15px;
+}
+
+.rightHeader{
+    display: flex;
+    margin: 50px;
+
+    position: relative;
+}
+
+.rightHeader h2{
+    color: white;
+    font-size: 1.9em;
+}
+
+.user{
+    position: absolute;
+    right:1%;
+    display: flex;
+}
+
+.userLog{
+    width: 35px;
+	height: 35px;
+    background-color:rgba(39, 38, 38, 70%);
+}
+
+.user p{
+    margin-top: -10px;
+}
+.user label{
+    background-color:rgba(39, 38, 38, 70%);
+    font-size: 1.8em;
+    font-weight: 600;
+    width: 40px;
+    margin: 0 20px;
+    text-align: center;
+    color: white;
+}
+
+.addTasks{
+    background-color: rgba(54, 53, 53, 80%);
+    color: white;
+    display: flex;
+    height: 70px;
+    margin: 0 20px;
+
+}
+
+.addTasks button{
+    background-color: rgba(54, 53, 53, 80%);
+    border: none;
+}
+.addTasks label{
+    margin-left: 10px;
+    font-size: 2.5em;
+    font-weight: 500;
+}
+.addTasks p{
+    margin-left: 50px;
+    font-size: 2.5em;
+}
+
+.entList{
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.formList{
+    background-color: #D9D9D9;
+    border-top: 0 solid grey;
+    margin: 5px 20px;
+    border-radius: 4px;
+    display: flex;
+}
+
+.entertainmentList{
+    margin: 5px 80px 5px 10px;
+    width: 95%;
+}
+
+.buttons{
+    margin-top: 15px;
+    text-align: left;
+    display: flex;
+}
+
+.buttons .controlForm{
+    height: 40px;
+    width: 40px;
+    margin: 10px 10px
+}

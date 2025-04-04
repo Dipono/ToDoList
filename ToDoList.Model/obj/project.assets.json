@@ -3468,11 +3468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Model\\ToDoList.Model.csproj",
+      "projectUniqueName": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Model\\ToDoList.Model.csproj",
       "projectName": "ToDoList.Model",
-      "projectPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Model\\ToDoList.Model.csproj",
+      "projectPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Model\\ToDoList.Model.csproj",
       "packagesPath": "C:\\Users\\LEBUTE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList.Model\\obj\\",
+      "outputPath": "C:\\Users\\LEBUTE\\source\\repos\\To-Do-List-Application\\ToDoList\\ToDoList.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LEBUTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
